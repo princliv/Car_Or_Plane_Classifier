@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/7580/7580978.png">
+<img align="right" alt="Coding" width="250" src="https://cdn-icons-png.flaticon.com/512/7580/7580978.png">
 
 # **Image Classifier GUI using Keras and Tkinter**
 
