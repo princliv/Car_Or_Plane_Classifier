@@ -1,7 +1,6 @@
+<img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/7580/7580978.png">
+
 # Image Classifier GUI using Keras and Tkinter
-
-![Coding](https://cdn-icons-png.flaticon.com/512/7580/7580978.png)
-
 This is a Python program that implements an Image Classifier using a pre-trained Convolutional Neural Network (CNN) model with Keras and provides a Graphical User Interface (GUI) using Tkinter. The program allows users to classify images as either "plane" or "car." The GUI allows users to select an image file from their local storage, and the program will display the image along with the classification result and its probability.
 
 ## Table of Contents
